@@ -97,7 +97,7 @@ barbearia/
 | `agendamento.html` | Formulário de agendamento |
 | `avaliacoes.html` | Avaliações dos clientes |
 
-> **Templates:** utilizaremos Jinja2 para compartilhar componentes, como menu de navegação e rodapé, evitando a repetição de código HTML.
+> **Templates:** utilizaremos Jinja2 para compartilhar componentes, como menu de navegação e rodapé, evitando a repetição de código HTML.[OPCIONAL]
 
 ## 🗄️ Banco de dados
 
